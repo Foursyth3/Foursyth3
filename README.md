@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with [RAIA](https://github.com/Foursyth3/RAIR)
 
-- 📝 I regularly write articles on [https://github.com/Foursyth3/RAIR](https://github.com/Foursyth3/RAIR)
+- 📝 I regularly write articles on [https://github.com/Foursyth3/RAIR](https://medium.com/@foursyth3)
 
 - 💬 Ask me about **Python. Some might say I'm a Guru!**
 
